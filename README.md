@@ -8,7 +8,7 @@ Tema para Sublime
 * Preferences
 * Browse Packages
 
-PROCURE PELA PASTA "Material Theme", CASO A PASTA NÃO EXISTA, CRIE UMA PASTA COM O NOME "Material Theme".
+PROCURE A PASTA "Material Theme", CASO A PASTA NÃO EXISTA, CRIE UMA PASTA COM O NOME "Material Theme".
 
 * Caso tenha baixado o tema via Terminal(wget), mova o arquivo do tema para a pasta "Material Theme"
 * Reinicie o Sublime Text
